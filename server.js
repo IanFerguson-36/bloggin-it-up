@@ -4,7 +4,7 @@ const exphbs = require("express-handlebars");
 const sequelize = require("./config/connection");
 
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3230;
 
 const hbs = exphbs.create({});
 

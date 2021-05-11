@@ -6,7 +6,7 @@ This is an application that allows you to post and view blog posts related to th
 
 # Deployed App
 
-[Heroku] (https://git.heroku.com/shielded-castle-34662.git)
+[Heroku] (https://shielded-castle-34662.herokuapp.com/)
 
 # Deployed Repo
 

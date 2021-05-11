@@ -29,3 +29,5 @@ Post.init(
     }
     );
     module.exports=comment;
+
+    // trying to get main link
